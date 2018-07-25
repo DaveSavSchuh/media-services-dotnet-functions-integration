@@ -4,7 +4,7 @@
   "parameters": {
     "functionsAppName": {
       "type": "string",
-      "defaultValue": "videofunctions",
+      "defaultValue": "schuh-cms-videofunctions",
       "metadata": {
         "description": "The name of the Function application to be deployed. The name will automatically be made unique on deployment, all lowercase letters or numbers with no spaces."
       }
